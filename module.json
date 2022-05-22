@@ -7,7 +7,7 @@
     "mbed-official"
   ],
   "author": "Brendan Moran <brendan.moran@arm.com>",
-  "homepage": "https://github.com/ARMmbed/cmsis-core-stm32f4-private",
+  "homepage": "https://github.com/he2she/cmsis-core-stm32f4-private",
   "licenses": [
     {
       "url": "https://spdx.org/licenses/BSD-3-Clause",
@@ -27,7 +27,7 @@
       "cmsis-core-stm32f401xe": "~0.1.0"
     },
     "stm32f429xi-no-inherit": {
-      "cmsis-core-stm32f429xi": "^1.0.0"
+      "cmsis-core-stm32f429xi": "he2she/cmsis-core-stm32f429xi#v1.0.3"
     },
     "stm32f439zi-no-inherit": {
       "cmsis-core-stm32f439zi": "~0.1.0"
